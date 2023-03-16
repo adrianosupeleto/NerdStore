@@ -1,0 +1,13 @@
+D:\Desenvolvimento\CSharp\AspNetCore\NSE\08 - Processo Pedido Completo\src\services\NSE.Pedidos.Domain\bin\Debug\netcoreapp3.1\NSE.Pedidos.Domain.deps.json
+D:\Desenvolvimento\CSharp\AspNetCore\NSE\08 - Processo Pedido Completo\src\services\NSE.Pedidos.Domain\bin\Debug\netcoreapp3.1\NSE.Pedidos.Domain.dll
+D:\Desenvolvimento\CSharp\AspNetCore\NSE\08 - Processo Pedido Completo\src\services\NSE.Pedidos.Domain\bin\Debug\netcoreapp3.1\NSE.Pedidos.Domain.pdb
+D:\Desenvolvimento\CSharp\AspNetCore\NSE\08 - Processo Pedido Completo\src\services\NSE.Pedidos.Domain\bin\Debug\netcoreapp3.1\NSE.Core.dll
+D:\Desenvolvimento\CSharp\AspNetCore\NSE\08 - Processo Pedido Completo\src\services\NSE.Pedidos.Domain\bin\Debug\netcoreapp3.1\NSE.Core.pdb
+D:\Desenvolvimento\CSharp\AspNetCore\NSE\08 - Processo Pedido Completo\src\services\NSE.Pedidos.Domain\obj\Debug\netcoreapp3.1\NSE.Pedidos.Domain.csproj.AssemblyReference.cache
+D:\Desenvolvimento\CSharp\AspNetCore\NSE\08 - Processo Pedido Completo\src\services\NSE.Pedidos.Domain\obj\Debug\netcoreapp3.1\NSE.Pedidos.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desenvolvimento\CSharp\AspNetCore\NSE\08 - Processo Pedido Completo\src\services\NSE.Pedidos.Domain\obj\Debug\netcoreapp3.1\NSE.Pedidos.Domain.AssemblyInfoInputs.cache
+D:\Desenvolvimento\CSharp\AspNetCore\NSE\08 - Processo Pedido Completo\src\services\NSE.Pedidos.Domain\obj\Debug\netcoreapp3.1\NSE.Pedidos.Domain.AssemblyInfo.cs
+D:\Desenvolvimento\CSharp\AspNetCore\NSE\08 - Processo Pedido Completo\src\services\NSE.Pedidos.Domain\obj\Debug\netcoreapp3.1\NSE.Pedidos.Domain.csproj.CoreCompileInputs.cache
+D:\Desenvolvimento\CSharp\AspNetCore\NSE\08 - Processo Pedido Completo\src\services\NSE.Pedidos.Domain\obj\Debug\netcoreapp3.1\NSE.Pedidos.Domain.csproj.CopyComplete
+D:\Desenvolvimento\CSharp\AspNetCore\NSE\08 - Processo Pedido Completo\src\services\NSE.Pedidos.Domain\obj\Debug\netcoreapp3.1\NSE.Pedidos.Domain.dll
+D:\Desenvolvimento\CSharp\AspNetCore\NSE\08 - Processo Pedido Completo\src\services\NSE.Pedidos.Domain\obj\Debug\netcoreapp3.1\NSE.Pedidos.Domain.pdb

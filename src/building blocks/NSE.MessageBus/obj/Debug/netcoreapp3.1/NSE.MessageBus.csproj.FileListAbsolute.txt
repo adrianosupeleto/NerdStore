@@ -1,0 +1,26 @@
+D:\Cursos\Desenvolvedor.io\06.0-ASP.NET Core Enterprise Applications\Materiais\08 - Processo Pedido Completo\src\building blocks\NSE.MessageBus\bin\Debug\netcoreapp3.1\NSE.MessageBus.deps.json
+D:\Cursos\Desenvolvedor.io\06.0-ASP.NET Core Enterprise Applications\Materiais\08 - Processo Pedido Completo\src\building blocks\NSE.MessageBus\bin\Debug\netcoreapp3.1\NSE.MessageBus.dll
+D:\Cursos\Desenvolvedor.io\06.0-ASP.NET Core Enterprise Applications\Materiais\08 - Processo Pedido Completo\src\building blocks\NSE.MessageBus\bin\Debug\netcoreapp3.1\NSE.MessageBus.pdb
+D:\Cursos\Desenvolvedor.io\06.0-ASP.NET Core Enterprise Applications\Materiais\08 - Processo Pedido Completo\src\building blocks\NSE.MessageBus\bin\Debug\netcoreapp3.1\NSE.Core.dll
+D:\Cursos\Desenvolvedor.io\06.0-ASP.NET Core Enterprise Applications\Materiais\08 - Processo Pedido Completo\src\building blocks\NSE.MessageBus\bin\Debug\netcoreapp3.1\NSE.Core.pdb
+D:\Cursos\Desenvolvedor.io\06.0-ASP.NET Core Enterprise Applications\Materiais\08 - Processo Pedido Completo\src\building blocks\NSE.MessageBus\obj\Debug\netcoreapp3.1\NSE.MessageBus.csproj.AssemblyReference.cache
+D:\Cursos\Desenvolvedor.io\06.0-ASP.NET Core Enterprise Applications\Materiais\08 - Processo Pedido Completo\src\building blocks\NSE.MessageBus\obj\Debug\netcoreapp3.1\NSE.MessageBus.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Desenvolvedor.io\06.0-ASP.NET Core Enterprise Applications\Materiais\08 - Processo Pedido Completo\src\building blocks\NSE.MessageBus\obj\Debug\netcoreapp3.1\NSE.MessageBus.AssemblyInfoInputs.cache
+D:\Cursos\Desenvolvedor.io\06.0-ASP.NET Core Enterprise Applications\Materiais\08 - Processo Pedido Completo\src\building blocks\NSE.MessageBus\obj\Debug\netcoreapp3.1\NSE.MessageBus.AssemblyInfo.cs
+D:\Cursos\Desenvolvedor.io\06.0-ASP.NET Core Enterprise Applications\Materiais\08 - Processo Pedido Completo\src\building blocks\NSE.MessageBus\obj\Debug\netcoreapp3.1\NSE.MessageBus.csproj.CoreCompileInputs.cache
+D:\Cursos\Desenvolvedor.io\06.0-ASP.NET Core Enterprise Applications\Materiais\08 - Processo Pedido Completo\src\building blocks\NSE.MessageBus\obj\Debug\netcoreapp3.1\NSE.MessageBus.csproj.CopyComplete
+D:\Cursos\Desenvolvedor.io\06.0-ASP.NET Core Enterprise Applications\Materiais\08 - Processo Pedido Completo\src\building blocks\NSE.MessageBus\obj\Debug\netcoreapp3.1\NSE.MessageBus.dll
+D:\Cursos\Desenvolvedor.io\06.0-ASP.NET Core Enterprise Applications\Materiais\08 - Processo Pedido Completo\src\building blocks\NSE.MessageBus\obj\Debug\netcoreapp3.1\NSE.MessageBus.pdb
+D:\Desenvolvimento\CSharp\AspNetCore\NSE\08 - Processo Pedido Completo\src\building blocks\NSE.MessageBus\bin\Debug\netcoreapp3.1\NSE.MessageBus.deps.json
+D:\Desenvolvimento\CSharp\AspNetCore\NSE\08 - Processo Pedido Completo\src\building blocks\NSE.MessageBus\bin\Debug\netcoreapp3.1\NSE.MessageBus.dll
+D:\Desenvolvimento\CSharp\AspNetCore\NSE\08 - Processo Pedido Completo\src\building blocks\NSE.MessageBus\bin\Debug\netcoreapp3.1\NSE.MessageBus.pdb
+D:\Desenvolvimento\CSharp\AspNetCore\NSE\08 - Processo Pedido Completo\src\building blocks\NSE.MessageBus\bin\Debug\netcoreapp3.1\NSE.Core.dll
+D:\Desenvolvimento\CSharp\AspNetCore\NSE\08 - Processo Pedido Completo\src\building blocks\NSE.MessageBus\bin\Debug\netcoreapp3.1\NSE.Core.pdb
+D:\Desenvolvimento\CSharp\AspNetCore\NSE\08 - Processo Pedido Completo\src\building blocks\NSE.MessageBus\obj\Debug\netcoreapp3.1\NSE.MessageBus.csproj.AssemblyReference.cache
+D:\Desenvolvimento\CSharp\AspNetCore\NSE\08 - Processo Pedido Completo\src\building blocks\NSE.MessageBus\obj\Debug\netcoreapp3.1\NSE.MessageBus.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desenvolvimento\CSharp\AspNetCore\NSE\08 - Processo Pedido Completo\src\building blocks\NSE.MessageBus\obj\Debug\netcoreapp3.1\NSE.MessageBus.AssemblyInfoInputs.cache
+D:\Desenvolvimento\CSharp\AspNetCore\NSE\08 - Processo Pedido Completo\src\building blocks\NSE.MessageBus\obj\Debug\netcoreapp3.1\NSE.MessageBus.AssemblyInfo.cs
+D:\Desenvolvimento\CSharp\AspNetCore\NSE\08 - Processo Pedido Completo\src\building blocks\NSE.MessageBus\obj\Debug\netcoreapp3.1\NSE.MessageBus.csproj.CoreCompileInputs.cache
+D:\Desenvolvimento\CSharp\AspNetCore\NSE\08 - Processo Pedido Completo\src\building blocks\NSE.MessageBus\obj\Debug\netcoreapp3.1\NSE.MessageBus.csproj.CopyComplete
+D:\Desenvolvimento\CSharp\AspNetCore\NSE\08 - Processo Pedido Completo\src\building blocks\NSE.MessageBus\obj\Debug\netcoreapp3.1\NSE.MessageBus.dll
+D:\Desenvolvimento\CSharp\AspNetCore\NSE\08 - Processo Pedido Completo\src\building blocks\NSE.MessageBus\obj\Debug\netcoreapp3.1\NSE.MessageBus.pdb

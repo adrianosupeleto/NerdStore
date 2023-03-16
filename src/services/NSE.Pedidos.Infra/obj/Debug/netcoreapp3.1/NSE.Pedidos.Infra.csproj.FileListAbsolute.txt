@@ -1,0 +1,36 @@
+D:\Desenvolvimento\CSharp\AspNetCore\ENTERPRISE\NerdStoreEnterprise\src\services\NSE.Pedidos.Infra\obj\Debug\netcoreapp3.1\NSE.Pedidos.Infra.csproj.AssemblyReference.cache
+D:\Desenvolvimento\CSharp\AspNetCore\ENTERPRISE\NerdStoreEnterprise\src\services\NSE.Pedidos.Infra\obj\Debug\netcoreapp3.1\NSE.Pedidos.Infra.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desenvolvimento\CSharp\AspNetCore\ENTERPRISE\NerdStoreEnterprise\src\services\NSE.Pedidos.Infra\obj\Debug\netcoreapp3.1\NSE.Pedidos.Infra.AssemblyInfoInputs.cache
+D:\Desenvolvimento\CSharp\AspNetCore\ENTERPRISE\NerdStoreEnterprise\src\services\NSE.Pedidos.Infra\obj\Debug\netcoreapp3.1\NSE.Pedidos.Infra.AssemblyInfo.cs
+D:\Desenvolvimento\CSharp\AspNetCore\ENTERPRISE\NerdStoreEnterprise\src\services\NSE.Pedidos.Infra\obj\Debug\netcoreapp3.1\NSE.Pedidos.Infra.csproj.CoreCompileInputs.cache
+D:\Desenvolvimento\CSharp\AspNetCore\ENTERPRISE\NerdStoreEnterprise\src\services\NSE.Pedidos.Infra\bin\Debug\netcoreapp3.1\NSE.Pedidos.Infra.deps.json
+D:\Desenvolvimento\CSharp\AspNetCore\ENTERPRISE\NerdStoreEnterprise\src\services\NSE.Pedidos.Infra\bin\Debug\netcoreapp3.1\NSE.Pedidos.Infra.runtimeconfig.json
+D:\Desenvolvimento\CSharp\AspNetCore\ENTERPRISE\NerdStoreEnterprise\src\services\NSE.Pedidos.Infra\bin\Debug\netcoreapp3.1\NSE.Pedidos.Infra.runtimeconfig.dev.json
+D:\Desenvolvimento\CSharp\AspNetCore\ENTERPRISE\NerdStoreEnterprise\src\services\NSE.Pedidos.Infra\bin\Debug\netcoreapp3.1\NSE.Pedidos.Infra.dll
+D:\Desenvolvimento\CSharp\AspNetCore\ENTERPRISE\NerdStoreEnterprise\src\services\NSE.Pedidos.Infra\bin\Debug\netcoreapp3.1\NSE.Pedidos.Infra.pdb
+D:\Desenvolvimento\CSharp\AspNetCore\ENTERPRISE\NerdStoreEnterprise\src\services\NSE.Pedidos.Infra\bin\Debug\netcoreapp3.1\NSE.Core.dll
+D:\Desenvolvimento\CSharp\AspNetCore\ENTERPRISE\NerdStoreEnterprise\src\services\NSE.Pedidos.Infra\bin\Debug\netcoreapp3.1\NSE.Pedidos.Domain.dll
+D:\Desenvolvimento\CSharp\AspNetCore\ENTERPRISE\NerdStoreEnterprise\src\services\NSE.Pedidos.Infra\bin\Debug\netcoreapp3.1\NSE.Pedidos.Domain.pdb
+D:\Desenvolvimento\CSharp\AspNetCore\ENTERPRISE\NerdStoreEnterprise\src\services\NSE.Pedidos.Infra\bin\Debug\netcoreapp3.1\NSE.Core.pdb
+D:\Desenvolvimento\CSharp\AspNetCore\ENTERPRISE\NerdStoreEnterprise\src\services\NSE.Pedidos.Infra\obj\Debug\netcoreapp3.1\NSE.Pedidos.Infra.csproj.CopyComplete
+D:\Desenvolvimento\CSharp\AspNetCore\ENTERPRISE\NerdStoreEnterprise\src\services\NSE.Pedidos.Infra\obj\Debug\netcoreapp3.1\NSE.Pedidos.Infra.dll
+D:\Desenvolvimento\CSharp\AspNetCore\ENTERPRISE\NerdStoreEnterprise\src\services\NSE.Pedidos.Infra\obj\Debug\netcoreapp3.1\NSE.Pedidos.Infra.pdb
+D:\Desenvolvimento\CSharp\AspNetCore\ENTERPRISE\NerdStoreEnterprise\src\services\NSE.Pedidos.Infra\obj\Debug\netcoreapp3.1\NSE.Pedidos.Infra.genruntimeconfig.cache
+D:\Desenvolvimento\CSharp\AspNetCore\NSE\08 - Processo Pedido Completo\src\services\NSE.Pedidos.Infra\bin\Debug\netcoreapp3.1\NSE.Pedidos.Infra.deps.json
+D:\Desenvolvimento\CSharp\AspNetCore\NSE\08 - Processo Pedido Completo\src\services\NSE.Pedidos.Infra\bin\Debug\netcoreapp3.1\NSE.Pedidos.Infra.runtimeconfig.json
+D:\Desenvolvimento\CSharp\AspNetCore\NSE\08 - Processo Pedido Completo\src\services\NSE.Pedidos.Infra\bin\Debug\netcoreapp3.1\NSE.Pedidos.Infra.runtimeconfig.dev.json
+D:\Desenvolvimento\CSharp\AspNetCore\NSE\08 - Processo Pedido Completo\src\services\NSE.Pedidos.Infra\bin\Debug\netcoreapp3.1\NSE.Pedidos.Infra.dll
+D:\Desenvolvimento\CSharp\AspNetCore\NSE\08 - Processo Pedido Completo\src\services\NSE.Pedidos.Infra\bin\Debug\netcoreapp3.1\NSE.Pedidos.Infra.pdb
+D:\Desenvolvimento\CSharp\AspNetCore\NSE\08 - Processo Pedido Completo\src\services\NSE.Pedidos.Infra\bin\Debug\netcoreapp3.1\NSE.Core.dll
+D:\Desenvolvimento\CSharp\AspNetCore\NSE\08 - Processo Pedido Completo\src\services\NSE.Pedidos.Infra\bin\Debug\netcoreapp3.1\NSE.Pedidos.Domain.dll
+D:\Desenvolvimento\CSharp\AspNetCore\NSE\08 - Processo Pedido Completo\src\services\NSE.Pedidos.Infra\bin\Debug\netcoreapp3.1\NSE.Pedidos.Domain.pdb
+D:\Desenvolvimento\CSharp\AspNetCore\NSE\08 - Processo Pedido Completo\src\services\NSE.Pedidos.Infra\bin\Debug\netcoreapp3.1\NSE.Core.pdb
+D:\Desenvolvimento\CSharp\AspNetCore\NSE\08 - Processo Pedido Completo\src\services\NSE.Pedidos.Infra\obj\Debug\netcoreapp3.1\NSE.Pedidos.Infra.csproj.AssemblyReference.cache
+D:\Desenvolvimento\CSharp\AspNetCore\NSE\08 - Processo Pedido Completo\src\services\NSE.Pedidos.Infra\obj\Debug\netcoreapp3.1\NSE.Pedidos.Infra.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desenvolvimento\CSharp\AspNetCore\NSE\08 - Processo Pedido Completo\src\services\NSE.Pedidos.Infra\obj\Debug\netcoreapp3.1\NSE.Pedidos.Infra.AssemblyInfoInputs.cache
+D:\Desenvolvimento\CSharp\AspNetCore\NSE\08 - Processo Pedido Completo\src\services\NSE.Pedidos.Infra\obj\Debug\netcoreapp3.1\NSE.Pedidos.Infra.AssemblyInfo.cs
+D:\Desenvolvimento\CSharp\AspNetCore\NSE\08 - Processo Pedido Completo\src\services\NSE.Pedidos.Infra\obj\Debug\netcoreapp3.1\NSE.Pedidos.Infra.csproj.CoreCompileInputs.cache
+D:\Desenvolvimento\CSharp\AspNetCore\NSE\08 - Processo Pedido Completo\src\services\NSE.Pedidos.Infra\obj\Debug\netcoreapp3.1\NSE.Pedidos.Infra.csproj.CopyComplete
+D:\Desenvolvimento\CSharp\AspNetCore\NSE\08 - Processo Pedido Completo\src\services\NSE.Pedidos.Infra\obj\Debug\netcoreapp3.1\NSE.Pedidos.Infra.dll
+D:\Desenvolvimento\CSharp\AspNetCore\NSE\08 - Processo Pedido Completo\src\services\NSE.Pedidos.Infra\obj\Debug\netcoreapp3.1\NSE.Pedidos.Infra.pdb
+D:\Desenvolvimento\CSharp\AspNetCore\NSE\08 - Processo Pedido Completo\src\services\NSE.Pedidos.Infra\obj\Debug\netcoreapp3.1\NSE.Pedidos.Infra.genruntimeconfig.cache

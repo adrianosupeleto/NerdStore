@@ -1,0 +1,20 @@
+D:\Cursos\Desenvolvedor.io\06.0-ASP.NET Core Enterprise Applications\Materiais\08 - Processo Pedido Completo\src\building blocks\NSE.Core\bin\Debug\netcoreapp3.1\NSE.Core.deps.json
+D:\Cursos\Desenvolvedor.io\06.0-ASP.NET Core Enterprise Applications\Materiais\08 - Processo Pedido Completo\src\building blocks\NSE.Core\bin\Debug\netcoreapp3.1\NSE.Core.dll
+D:\Cursos\Desenvolvedor.io\06.0-ASP.NET Core Enterprise Applications\Materiais\08 - Processo Pedido Completo\src\building blocks\NSE.Core\bin\Debug\netcoreapp3.1\NSE.Core.pdb
+D:\Cursos\Desenvolvedor.io\06.0-ASP.NET Core Enterprise Applications\Materiais\08 - Processo Pedido Completo\src\building blocks\NSE.Core\obj\Debug\netcoreapp3.1\NSE.Core.csproj.AssemblyReference.cache
+D:\Cursos\Desenvolvedor.io\06.0-ASP.NET Core Enterprise Applications\Materiais\08 - Processo Pedido Completo\src\building blocks\NSE.Core\obj\Debug\netcoreapp3.1\NSE.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Desenvolvedor.io\06.0-ASP.NET Core Enterprise Applications\Materiais\08 - Processo Pedido Completo\src\building blocks\NSE.Core\obj\Debug\netcoreapp3.1\NSE.Core.AssemblyInfoInputs.cache
+D:\Cursos\Desenvolvedor.io\06.0-ASP.NET Core Enterprise Applications\Materiais\08 - Processo Pedido Completo\src\building blocks\NSE.Core\obj\Debug\netcoreapp3.1\NSE.Core.AssemblyInfo.cs
+D:\Cursos\Desenvolvedor.io\06.0-ASP.NET Core Enterprise Applications\Materiais\08 - Processo Pedido Completo\src\building blocks\NSE.Core\obj\Debug\netcoreapp3.1\NSE.Core.csproj.CoreCompileInputs.cache
+D:\Cursos\Desenvolvedor.io\06.0-ASP.NET Core Enterprise Applications\Materiais\08 - Processo Pedido Completo\src\building blocks\NSE.Core\obj\Debug\netcoreapp3.1\NSE.Core.dll
+D:\Cursos\Desenvolvedor.io\06.0-ASP.NET Core Enterprise Applications\Materiais\08 - Processo Pedido Completo\src\building blocks\NSE.Core\obj\Debug\netcoreapp3.1\NSE.Core.pdb
+D:\Desenvolvimento\CSharp\AspNetCore\NSE\08 - Processo Pedido Completo\src\building blocks\NSE.Core\bin\Debug\netcoreapp3.1\NSE.Core.deps.json
+D:\Desenvolvimento\CSharp\AspNetCore\NSE\08 - Processo Pedido Completo\src\building blocks\NSE.Core\bin\Debug\netcoreapp3.1\NSE.Core.dll
+D:\Desenvolvimento\CSharp\AspNetCore\NSE\08 - Processo Pedido Completo\src\building blocks\NSE.Core\bin\Debug\netcoreapp3.1\NSE.Core.pdb
+D:\Desenvolvimento\CSharp\AspNetCore\NSE\08 - Processo Pedido Completo\src\building blocks\NSE.Core\obj\Debug\netcoreapp3.1\NSE.Core.csproj.AssemblyReference.cache
+D:\Desenvolvimento\CSharp\AspNetCore\NSE\08 - Processo Pedido Completo\src\building blocks\NSE.Core\obj\Debug\netcoreapp3.1\NSE.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desenvolvimento\CSharp\AspNetCore\NSE\08 - Processo Pedido Completo\src\building blocks\NSE.Core\obj\Debug\netcoreapp3.1\NSE.Core.AssemblyInfoInputs.cache
+D:\Desenvolvimento\CSharp\AspNetCore\NSE\08 - Processo Pedido Completo\src\building blocks\NSE.Core\obj\Debug\netcoreapp3.1\NSE.Core.AssemblyInfo.cs
+D:\Desenvolvimento\CSharp\AspNetCore\NSE\08 - Processo Pedido Completo\src\building blocks\NSE.Core\obj\Debug\netcoreapp3.1\NSE.Core.csproj.CoreCompileInputs.cache
+D:\Desenvolvimento\CSharp\AspNetCore\NSE\08 - Processo Pedido Completo\src\building blocks\NSE.Core\obj\Debug\netcoreapp3.1\NSE.Core.dll
+D:\Desenvolvimento\CSharp\AspNetCore\NSE\08 - Processo Pedido Completo\src\building blocks\NSE.Core\obj\Debug\netcoreapp3.1\NSE.Core.pdb

@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "weJZ3npLYHLLKC6kKfjuaSSaHwDo9lpj8Mw2MCTlSKbqbYTV8DqUW2raLTtQ5OacADyDZcZfw5NJ/02VhKFGBA==",
+  "success": true,
+  "projectFilePath": "D:\\Desenvolvimento\\CSharp\\AspNetCore\\NSE\\08 - Processo Pedido Completo\\src\\services\\NSE.Pedidos.Domain\\NSE.Pedidos.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrador\\.nuget\\packages\\fluentvalidation\\8.6.2\\fluentvalidation.8.6.2.nupkg.sha512",
+    "C:\\Users\\Administrador\\.nuget\\packages\\mediatr\\8.0.1\\mediatr.8.0.1.nupkg.sha512",
+    "C:\\Users\\Administrador\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.4\\microsoft.extensions.configuration.abstractions.3.1.4.nupkg.sha512",
+    "C:\\Users\\Administrador\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.4\\microsoft.extensions.dependencyinjection.abstractions.3.1.4.nupkg.sha512",
+    "C:\\Users\\Administrador\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.4\\microsoft.extensions.primitives.3.1.4.nupkg.sha512",
+    "C:\\Users\\Administrador\\.nuget\\packages\\netdevpack\\1.1.0\\netdevpack.1.1.0.nupkg.sha512",
+    "C:\\Users\\Administrador\\.nuget\\packages\\system.componentmodel.annotations\\4.4.1\\system.componentmodel.annotations.4.4.1.nupkg.sha512"
+  ],
+  "logs": []
+}
