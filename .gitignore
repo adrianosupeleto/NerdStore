@@ -1,0 +1,45 @@
+src/api gateways/NSE.Bff.Compras/obj/NSE.Bff.Compras.csproj.nuget.dgspec.json
+src/api gateways/NSE.Bff.Compras/obj/project.assets.json
+src/api gateways/NSE.Bff.Compras/obj/project.nuget.cache
+src/api gateways/NSE.Bff.Compras/obj/Debug/netcoreapp3.1/project.razor.json
+src/building blocks/NSE.Core/obj/NSE.Core.csproj.nuget.dgspec.json
+src/building blocks/NSE.Core/obj/project.nuget.cache
+src/building blocks/NSE.MessageBus/obj/NSE.MessageBus.csproj.nuget.dgspec.json
+src/building blocks/NSE.MessageBus/obj/project.assets.json
+src/building blocks/NSE.MessageBus/obj/project.nuget.cache
+src/building blocks/NSE.WebAPI.Core/obj/NSE.WebAPI.Core.csproj.nuget.dgspec.json
+src/building blocks/NSE.WebAPI.Core/obj/project.assets.json
+src/building blocks/NSE.WebAPI.Core/obj/project.nuget.cache
+src/services/NSE.Carrinho.API/obj/NSE.Carrinho.API.csproj.nuget.dgspec.json
+src/services/NSE.Carrinho.API/obj/project.assets.json
+src/services/NSE.Carrinho.API/obj/project.nuget.cache
+src/services/NSE.Carrinho.API/obj/Debug/netcoreapp3.1/project.razor.json
+src/services/NSE.Catalogo.API/obj/NSE.Catalogo.API.csproj.nuget.dgspec.json
+src/services/NSE.Catalogo.API/obj/project.assets.json
+src/services/NSE.Catalogo.API/obj/project.nuget.cache
+src/services/NSE.Catalogo.API/obj/Debug/netcoreapp3.1/project.razor.json
+src/services/NSE.Clientes.API/obj/NSE.Clientes.API.csproj.nuget.dgspec.json
+src/services/NSE.Clientes.API/obj/project.assets.json
+src/services/NSE.Clientes.API/obj/project.nuget.cache
+src/services/NSE.Clientes.API/obj/Debug/netcoreapp3.1/project.razor.json
+src/services/NSE.Identidade.API/obj/NSE.Identidade.API.csproj.nuget.dgspec.json
+src/services/NSE.Identidade.API/obj/project.assets.json
+src/services/NSE.Identidade.API/obj/project.nuget.cache
+src/services/NSE.Identidade.API/obj/Debug/netcoreapp3.1/project.razor.json
+src/services/NSE.Pagamentos.API/obj/NSE.Pagamentos.API.csproj.nuget.dgspec.json
+src/services/NSE.Pagamentos.API/obj/project.nuget.cache
+src/services/NSE.Pagamentos.API/obj/Debug/netcoreapp3.1/project.razor.json
+src/services/NSE.Pedidos.API/obj/NSE.Pedidos.API.csproj.nuget.dgspec.json
+src/services/NSE.Pedidos.API/obj/project.assets.json
+src/services/NSE.Pedidos.API/obj/project.nuget.cache
+src/services/NSE.Pedidos.API/obj/Debug/netcoreapp3.1/project.razor.json
+src/services/NSE.Pedidos.Domain/obj/NSE.Pedidos.Domain.csproj.nuget.dgspec.json
+src/services/NSE.Pedidos.Domain/obj/project.assets.json
+src/services/NSE.Pedidos.Domain/obj/project.nuget.cache
+src/services/NSE.Pedidos.Infra/obj/NSE.Pedidos.Infra.csproj.nuget.dgspec.json
+src/services/NSE.Pedidos.Infra/obj/project.assets.json
+src/services/NSE.Pedidos.Infra/obj/project.nuget.cache
+src/web/NSE.WebApp.MVC/obj/NSE.WebApp.MVC.csproj.nuget.dgspec.json
+src/web/NSE.WebApp.MVC/obj/project.assets.json
+src/web/NSE.WebApp.MVC/obj/project.nuget.cache
+src/web/NSE.WebApp.MVC/obj/Debug/netcoreapp3.1/project.razor.json

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xPnOcD9BoJjLthPwqIp5uYe+SmT0TpjOJniLk29UQoVHrNCtKuFEWyB3rr2M3uA/mdNNdx+/DJgcxV+QP6h7qw==",
+  "dgSpecHash": "HPqJ0yh2f8I77YN7BoHuka2OVahXkWmlbO1dhIFVTQCBHSsEVyzmSFMgYDhwENw31utdLICo3K9JX1fpM57BAg==",
   "success": true,
-  "projectFilePath": "D:\\Desenvolvimento\\CSharp\\AspNetCore\\NSE\\08 - Processo Pedido Completo\\src\\services\\NSE.Carrinho.API\\NSE.Carrinho.API.csproj",
+  "projectFilePath": "d:\\Desenvolvimento\\CSharp\\AspNetCore\\NSE\\08 - Processo Pedido Completo\\src\\services\\NSE.Carrinho.API\\NSE.Carrinho.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrador\\.nuget\\packages\\easynetq\\5.1.1\\easynetq.5.1.1.nupkg.sha512",
     "C:\\Users\\Administrador\\.nuget\\packages\\fluentvalidation\\8.6.2\\fluentvalidation.8.6.2.nupkg.sha512",
