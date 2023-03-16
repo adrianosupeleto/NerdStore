@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CDneZ4C6eyy62QDBmwA/l3xFURYP7LTkiNuKpkgVTMKPUHd5ilCkbHvOgdW3f/As5+KCDVS6A6+BjlhnK50YZg==",
+  "dgSpecHash": "qM5v66Wqs/AZkeJ65B90VjUaVC2LVpjZAMhEk+Zg7+bLTDK43QHV+wvMg0BaTc/B3E4UR6hPKKs2mwmJKWsHIg==",
   "success": true,
-  "projectFilePath": "d:\\Desenvolvimento\\CSharp\\AspNetCore\\NSE\\08 - Processo Pedido Completo\\src\\services\\NSE.Catalogo.API\\NSE.Catalogo.API.csproj",
+  "projectFilePath": "D:\\Desenvolvimento\\CSharp\\AspNetCore\\NSE\\08 - Processo Pedido Completo\\src\\services\\NSE.Catalogo.API\\NSE.Catalogo.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrador\\.nuget\\packages\\fluentvalidation\\8.6.2\\fluentvalidation.8.6.2.nupkg.sha512",
     "C:\\Users\\Administrador\\.nuget\\packages\\mediatr\\8.0.1\\mediatr.8.0.1.nupkg.sha512",

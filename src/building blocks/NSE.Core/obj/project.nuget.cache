@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3r9QVB11xojatb6kdEf+SL7f70sOvEMQmzNdnRwiMgcwX7aksvA2aOm/vo5jHmiwcw8yrEXOqHxgkxB2/Mn92Q==",
+  "dgSpecHash": "4rKzGXpmTc6d8Jqcdo4BwVu+a475ML8F8te0wbboZj68ife5WCgrtJl/9bTp4FPc3CUGj9/Ckf4f/LCVG1/2dQ==",
   "success": true,
-  "projectFilePath": "d:\\Desenvolvimento\\CSharp\\AspNetCore\\NSE\\08 - Processo Pedido Completo\\src\\building blocks\\NSE.Core\\NSE.Core.csproj",
+  "projectFilePath": "D:\\Desenvolvimento\\CSharp\\AspNetCore\\NSE\\08 - Processo Pedido Completo\\src\\building blocks\\NSE.Core\\NSE.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrador\\.nuget\\packages\\fluentvalidation\\8.6.2\\fluentvalidation.8.6.2.nupkg.sha512",
     "C:\\Users\\Administrador\\.nuget\\packages\\mediatr\\8.0.1\\mediatr.8.0.1.nupkg.sha512",

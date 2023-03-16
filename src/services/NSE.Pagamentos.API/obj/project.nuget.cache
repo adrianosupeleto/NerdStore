@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fWr0QaKlElgx4eibFDuGPpUybVIOy/K9Xs4ON9xEJZeYB3QdjUKUYbpHMspWTYf1kGs+SUENnMb6LmecG7T1Fw==",
+  "dgSpecHash": "XVtAwJWSdiuPdwwFEmmbzTqkyKZiIjSPj2W9fi2uZI783wuvOvD91AJKhlVKQnqE/SUR46Vo6HsC8Lgjogamgw==",
   "success": true,
-  "projectFilePath": "d:\\Desenvolvimento\\CSharp\\AspNetCore\\NSE\\08 - Processo Pedido Completo\\src\\services\\NSE.Pagamentos.API\\NSE.Pagamentos.API.csproj",
+  "projectFilePath": "D:\\Desenvolvimento\\CSharp\\AspNetCore\\NSE\\08 - Processo Pedido Completo\\src\\services\\NSE.Pagamentos.API\\NSE.Pagamentos.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrador\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.8\\microsoft.visualstudio.azure.containers.tools.targets.1.10.8.nupkg.sha512"
   ],
