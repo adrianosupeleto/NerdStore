@@ -162,3 +162,7 @@ D:\Desenvolvimento\CSharp\AspNetCore\NSE\08 - Processo Pedido Completo\src\servi
 D:\Desenvolvimento\CSharp\AspNetCore\NSE\08 - Processo Pedido Completo\src\services\NSE.Catalogo.API\obj\Debug\netcoreapp3.1\NSE.Catalogo.API.dll
 D:\Desenvolvimento\CSharp\AspNetCore\NSE\08 - Processo Pedido Completo\src\services\NSE.Catalogo.API\obj\Debug\netcoreapp3.1\NSE.Catalogo.API.pdb
 D:\Desenvolvimento\CSharp\AspNetCore\NSE\08 - Processo Pedido Completo\src\services\NSE.Catalogo.API\obj\Debug\netcoreapp3.1\NSE.Catalogo.API.genruntimeconfig.cache
+D:\Desenvolvimento\CSharp\AspNetCore\NSE\08 - Processo Pedido Completo\src\services\NSE.Catalogo.API\bin\Debug\netcoreapp3.1\EasyNetQ.dll
+D:\Desenvolvimento\CSharp\AspNetCore\NSE\08 - Processo Pedido Completo\src\services\NSE.Catalogo.API\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+D:\Desenvolvimento\CSharp\AspNetCore\NSE\08 - Processo Pedido Completo\src\services\NSE.Catalogo.API\bin\Debug\netcoreapp3.1\NSE.MessageBus.dll
+D:\Desenvolvimento\CSharp\AspNetCore\NSE\08 - Processo Pedido Completo\src\services\NSE.Catalogo.API\bin\Debug\netcoreapp3.1\NSE.MessageBus.pdb

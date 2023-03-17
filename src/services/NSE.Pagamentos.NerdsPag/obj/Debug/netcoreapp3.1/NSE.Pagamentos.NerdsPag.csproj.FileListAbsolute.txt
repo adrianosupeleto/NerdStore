@@ -1,0 +1,10 @@
+D:\Desenvolvimento\CSharp\AspNetCore\NSE\08 - Processo Pedido Completo\src\services\NSE.Pagamentos.NerdsPag\bin\Debug\netcoreapp3.1\NSE.Pagamentos.NerdsPag.deps.json
+D:\Desenvolvimento\CSharp\AspNetCore\NSE\08 - Processo Pedido Completo\src\services\NSE.Pagamentos.NerdsPag\bin\Debug\netcoreapp3.1\NSE.Pagamentos.NerdsPag.dll
+D:\Desenvolvimento\CSharp\AspNetCore\NSE\08 - Processo Pedido Completo\src\services\NSE.Pagamentos.NerdsPag\bin\Debug\netcoreapp3.1\NSE.Pagamentos.NerdsPag.pdb
+D:\Desenvolvimento\CSharp\AspNetCore\NSE\08 - Processo Pedido Completo\src\services\NSE.Pagamentos.NerdsPag\obj\Debug\netcoreapp3.1\NSE.Pagamentos.NerdsPag.csproj.AssemblyReference.cache
+D:\Desenvolvimento\CSharp\AspNetCore\NSE\08 - Processo Pedido Completo\src\services\NSE.Pagamentos.NerdsPag\obj\Debug\netcoreapp3.1\NSE.Pagamentos.NerdsPag.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desenvolvimento\CSharp\AspNetCore\NSE\08 - Processo Pedido Completo\src\services\NSE.Pagamentos.NerdsPag\obj\Debug\netcoreapp3.1\NSE.Pagamentos.NerdsPag.AssemblyInfoInputs.cache
+D:\Desenvolvimento\CSharp\AspNetCore\NSE\08 - Processo Pedido Completo\src\services\NSE.Pagamentos.NerdsPag\obj\Debug\netcoreapp3.1\NSE.Pagamentos.NerdsPag.AssemblyInfo.cs
+D:\Desenvolvimento\CSharp\AspNetCore\NSE\08 - Processo Pedido Completo\src\services\NSE.Pagamentos.NerdsPag\obj\Debug\netcoreapp3.1\NSE.Pagamentos.NerdsPag.csproj.CoreCompileInputs.cache
+D:\Desenvolvimento\CSharp\AspNetCore\NSE\08 - Processo Pedido Completo\src\services\NSE.Pagamentos.NerdsPag\obj\Debug\netcoreapp3.1\NSE.Pagamentos.NerdsPag.dll
+D:\Desenvolvimento\CSharp\AspNetCore\NSE\08 - Processo Pedido Completo\src\services\NSE.Pagamentos.NerdsPag\obj\Debug\netcoreapp3.1\NSE.Pagamentos.NerdsPag.pdb
