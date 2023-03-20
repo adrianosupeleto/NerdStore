@@ -782,3 +782,4 @@ D:\Desenvolvimento\CSharp\AspNetCore\NSE\08 - Processo Pedido Completo\src\web\N
 D:\Desenvolvimento\CSharp\AspNetCore\NSE\08 - Processo Pedido Completo\src\web\NSE.WebApp.MVC\obj\Debug\netcoreapp3.1\NSE.WebApp.MVC.dll
 D:\Desenvolvimento\CSharp\AspNetCore\NSE\08 - Processo Pedido Completo\src\web\NSE.WebApp.MVC\obj\Debug\netcoreapp3.1\NSE.WebApp.MVC.pdb
 D:\Desenvolvimento\CSharp\AspNetCore\NSE\08 - Processo Pedido Completo\src\web\NSE.WebApp.MVC\obj\Debug\netcoreapp3.1\NSE.WebApp.MVC.genruntimeconfig.cache
+D:\Desenvolvimento\CSharp\AspNetCore\NSE\08 - Processo Pedido Completo\src\web\NSE.WebApp.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Paginacao\Default.cshtml.g.cs

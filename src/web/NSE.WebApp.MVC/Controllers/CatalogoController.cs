@@ -21,6 +21,8 @@ namespace NSE.WebApp.MVC.Controllers
         public async Task<IActionResult> Index([FromQuery] int ps = 8, [FromQuery] int page = 1, [FromQuery] string q = null)
         {
             var produtos = await _catalogoService.ObterTodos(ps,page, q);
+            ViewBag.Pesquisa = q;
+            produtos.ReferenceAction= "Index";
 
             return View(produtos);
         }
