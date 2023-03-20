@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZYwVFVdaNJCRANQQhJBedC8S+5G2z3lkbtjA+EEE1AbFL55BXhsNZbi07BwfVPmdCgAwHKrcC9VVXZ9A4c0fhA==",
+  "dgSpecHash": "RPlAu0AYwEAheXkBlDONgHhfkMTYg5UG391CNQ1YtwexLe22Ynl4ABN5RfeTFLOkHIUbHjySlzGSebMTHZLqNw==",
   "success": true,
-  "projectFilePath": "d:\\Desenvolvimento\\CSharp\\AspNetCore\\NSE\\08 - Processo Pedido Completo\\src\\services\\NSE.Pagamentos.NerdsPag\\NSE.Pagamentos.NerdsPag.csproj",
+  "projectFilePath": "D:\\Desenvolvimento\\CSharp\\AspNetCore\\NSE\\08 - Processo Pedido Completo\\src\\services\\NSE.Pagamentos.NerdsPag\\NSE.Pagamentos.NerdsPag.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

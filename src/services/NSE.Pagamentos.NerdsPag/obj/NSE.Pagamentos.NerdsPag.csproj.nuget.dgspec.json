@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Desenvolvimento\\CSharp\\AspNetCore\\NSE\\08 - Processo Pedido Completo\\src\\services\\NSE.Pagamentos.NerdsPag\\NSE.Pagamentos.NerdsPag.csproj": {}
+    "D:\\Desenvolvimento\\CSharp\\AspNetCore\\NSE\\08 - Processo Pedido Completo\\src\\services\\NSE.Pagamentos.NerdsPag\\NSE.Pagamentos.NerdsPag.csproj": {}
   },
   "projects": {
-    "d:\\Desenvolvimento\\CSharp\\AspNetCore\\NSE\\08 - Processo Pedido Completo\\src\\services\\NSE.Pagamentos.NerdsPag\\NSE.Pagamentos.NerdsPag.csproj": {
+    "D:\\Desenvolvimento\\CSharp\\AspNetCore\\NSE\\08 - Processo Pedido Completo\\src\\services\\NSE.Pagamentos.NerdsPag\\NSE.Pagamentos.NerdsPag.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Desenvolvimento\\CSharp\\AspNetCore\\NSE\\08 - Processo Pedido Completo\\src\\services\\NSE.Pagamentos.NerdsPag\\NSE.Pagamentos.NerdsPag.csproj",
+        "projectUniqueName": "D:\\Desenvolvimento\\CSharp\\AspNetCore\\NSE\\08 - Processo Pedido Completo\\src\\services\\NSE.Pagamentos.NerdsPag\\NSE.Pagamentos.NerdsPag.csproj",
         "projectName": "NSE.Pagamentos.NerdsPag",
-        "projectPath": "d:\\Desenvolvimento\\CSharp\\AspNetCore\\NSE\\08 - Processo Pedido Completo\\src\\services\\NSE.Pagamentos.NerdsPag\\NSE.Pagamentos.NerdsPag.csproj",
+        "projectPath": "D:\\Desenvolvimento\\CSharp\\AspNetCore\\NSE\\08 - Processo Pedido Completo\\src\\services\\NSE.Pagamentos.NerdsPag\\NSE.Pagamentos.NerdsPag.csproj",
         "packagesPath": "C:\\Users\\Administrador\\.nuget\\packages\\",
-        "outputPath": "d:\\Desenvolvimento\\CSharp\\AspNetCore\\NSE\\08 - Processo Pedido Completo\\src\\services\\NSE.Pagamentos.NerdsPag\\obj\\",
+        "outputPath": "D:\\Desenvolvimento\\CSharp\\AspNetCore\\NSE\\08 - Processo Pedido Completo\\src\\services\\NSE.Pagamentos.NerdsPag\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Administrador\\AppData\\Roaming\\NuGet\\NuGet.Config",

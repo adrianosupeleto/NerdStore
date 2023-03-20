@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YbIB1FvgSleboy/3Elm14PIrW5wVXxkqnnJ1heRSkHLx3EZ7FMkJAU6YvFi1K0HuNVkpbnvoikn9SDZRxb7qAA==",
+  "dgSpecHash": "K5BEVlTmtzLGzwcrgLcc2sQS2GkG3BD4IWFuMi+EeIbD58sOpbmgmXkCPOw52buXaUT45A0l7CkRM/hf6+3Y4A==",
   "success": true,
-  "projectFilePath": "d:\\Desenvolvimento\\CSharp\\AspNetCore\\NSE\\08 - Processo Pedido Completo\\src\\services\\NSE.Clientes.API\\NSE.Clientes.API.csproj",
+  "projectFilePath": "D:\\Desenvolvimento\\CSharp\\AspNetCore\\NSE\\08 - Processo Pedido Completo\\src\\services\\NSE.Clientes.API\\NSE.Clientes.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrador\\.nuget\\packages\\easynetq\\5.1.1\\easynetq.5.1.1.nupkg.sha512",
     "C:\\Users\\Administrador\\.nuget\\packages\\fluentvalidation\\8.6.2\\fluentvalidation.8.6.2.nupkg.sha512",
